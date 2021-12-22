@@ -14,7 +14,7 @@
       "inline"
     ],
     "website": "t.me/svftm",
-    "repository": "https://github.com/OsharaShaveen/Media-Search-Bot",
+    "repository": "https://github.com/Naviya2/LeoMediaSearchBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
