@@ -81,7 +81,7 @@
             "required": false
         },
         "SHARE_BUTTON_TEXT": {
-            "description": "A Massege for add to share button. If you want to change it you can change it here",
+            "description": "A Massege for add to share button. If you want to change it you Dont Change It",
             "value": "**Mod app  Search Bot 🇱🇰**\n\n`Here you can find any Mod app  by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @Dp_Bots 🇱🇰\nUpdates Channel: @svftm 🇱🇰\nDevelopper : @WhiteDevilOp999 👿",
             "required": false
         },
