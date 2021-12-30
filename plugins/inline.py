@@ -75,7 +75,7 @@ def get_reply_markup(username, query):
     buttons = [
         [
            InlineKeyboardButton('Search Again 🔎', switch_inline_query_current_chat=query),
-           InlineKeyboardButton('Share Our Bot ✅', url=http://t.me/Google_Inline_Digital_Bot),
+           InlineKeyboardButton('Share Our Bot ✅', url=url),
         ],
 
         [
